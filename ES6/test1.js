@@ -28,6 +28,8 @@ let test  = async() =>{
     console.log(relute2 +' async');
     console.log('master')
     console.log('master two')
+    console.log('hot-qingfeng');
+    console.log('hot-qingfeng two')
 };
 
 test();
