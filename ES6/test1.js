@@ -26,7 +26,8 @@ let test  = async() =>{
 
     console.log(relute1 +' async');
     console.log(relute2 +' async');
-    console.log('hot-qingfeng')
+    console.log('master')
+    console.log('master two')
 };
 
 test();
